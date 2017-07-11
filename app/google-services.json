@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166703752964",
+    "firebase_url": "https://notification-70b74.firebaseio.com",
+    "project_id": "notification-70b74",
+    "storage_bucket": "notification-70b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166703752964:android:b2a2852dede6d516",
+        "android_client_info": {
+          "package_name": "com.example.marta.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166703752964-phnj39u1v8tqp2t10e92vl6rv33763un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marta.notification",
+            "certificate_hash": "dbcf0538110a140f40dc24a9e757169516c64778"
+          }
+        },
+        {
+          "client_id": "166703752964-r3f0j5bc8m7llpdl91tnt4sbv2866e3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6oyvmvTHTl5hnZlqXt_B6eu_v5ARxL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166703752964-r3f0j5bc8m7llpdl91tnt4sbv2866e3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
